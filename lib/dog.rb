@@ -5,5 +5,5 @@ class Dog
     @doggy_name = doggy_name
   end 
   
-  def 
+  def name 
 end 
