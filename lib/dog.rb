@@ -19,6 +19,7 @@ fido.name = "Fido"
   
   def bark 
     @doggy_do
+   end 
   end 
 end 
 
