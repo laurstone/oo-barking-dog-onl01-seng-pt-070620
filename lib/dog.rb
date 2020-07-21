@@ -11,6 +11,10 @@ class Dog
   
   def bark= (dog_do)
     @doggy_bark = dog_do
+  end
+  
+  def bark 
+    @doggy_bark
   end 
 end 
 
