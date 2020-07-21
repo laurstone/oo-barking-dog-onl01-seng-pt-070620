@@ -26,10 +26,7 @@ end
     
   puts fido.bark 
     
-  lassie = Dog.new
-lassie.name = "Lassie"
  
-puts lassie.name
 
 
   
