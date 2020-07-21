@@ -10,8 +10,8 @@ class Dog
   end 
 
 
-fido = Dog.new 
-fido.name = "Fido"
+  fido = Dog.new 
+    fido.name = "Fido"
 
   def bark= (dog_do)
     @doggy_do = dog_do
@@ -21,8 +21,8 @@ fido.name = "Fido"
     @doggy_do
   end 
  end 
-bark = Dog.new 
-fido.bark = "woof!"
+  bark = Dog.new 
+    fido.bark = "woof!"
   
 
 
