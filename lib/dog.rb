@@ -22,8 +22,7 @@ end
     fido.name = "Fido"
   
   bark = Dog.new 
-    fido.bark
-  puts "woof!"
+    fido.bark = "woof!"
   
 
 
