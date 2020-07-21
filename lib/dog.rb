@@ -21,7 +21,7 @@ end
   fido = Dog.new 
     fido.name = "Fido"
   
-  bark = Dog.new
+  fido = Dog.new
     fido.bark = "woof!"
     
   
